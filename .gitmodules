@@ -1,0 +1,3 @@
+[submodule "ts3phpframework"]
+	path = ts3phpframework
+	url = https://github.com/planetteamspeak/ts3phpframework.git
