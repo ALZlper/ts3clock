@@ -3,7 +3,7 @@ Add a clock to your Teamspeak Server
 
 ## Installation
 
-You need to recusively clone this reposity, so the ts3phpframework gets downloaded too.
+You need to recusively clone this repository, so the ts3phpframework gets downloaded too.
 
 `git clone --recurse-submodules <project>`
 
