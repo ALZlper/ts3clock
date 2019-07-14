@@ -23,6 +23,8 @@
                     //Update the new time
                     $check = date('Hi', time());
                 }
+                //Slow down the loop to drastically reduce CPU Usage
+                sleep(3);
             }
         }
 
